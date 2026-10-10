@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SITEMAP: URLs are built from SITE_URL in build/lib.py; change it when the real domain is live. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/</loc><lastmod>2026-10-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/history/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/flying-boats/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/uj-island-and-graves/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/things-to-do/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/towns/vaal-marina/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/towns/deneysville/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/towns/oranjeville/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/towns/frankfort/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/towns/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/plan-your-visit/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/contact/</loc><lastmod>2026-10-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/advertise/</loc><lastmod>2026-10-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/photo-credits/</loc><lastmod>2026-10-10</lastmod><priority>0.3</priority></url>
+  <url><loc>https://sbshannes.github.io/visit-vaal-dam/privacy/</loc><lastmod>2026-10-10</lastmod><priority>0.2</priority></url>
+</urlset>

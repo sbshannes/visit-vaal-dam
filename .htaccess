@@ -1,0 +1,23 @@
+# Visit Vaal Dam - Apache settings for Afrihost shared hosting (ignored by GitHub Pages)
+ErrorDocument 404 /404.html
+Options -Indexes
+DirectoryIndex index.html index.php
+
+# Uncomment once SSL (Let's Encrypt / AutoSSL) is active on the domain:
+# RewriteEngine On
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript image/svg+xml application/xml text/plain
+</IfModule>
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType text/html "access plus 1 hour"
+</IfModule>
+AddType image/webp .webp
