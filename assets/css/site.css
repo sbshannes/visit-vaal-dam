@@ -210,3 +210,5 @@ button.btn{cursor:pointer;font:inherit;font-weight:700}
 .credit-table img{width:120px;border-radius:8px}
 .table-wrap{overflow-x:auto}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+.site-credit{width:100%;font-size:.78rem;opacity:.8;letter-spacing:.02em}
+.placeholder-text{background:#fff3c4;color:#5c4400;padding:0 .3em;border-radius:4px}
