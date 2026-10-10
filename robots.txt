@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /contact.php
 
-Sitemap: https://sbshannes.github.io/visit-vaal-dam/sitemap.xml
+Sitemap: https://www.visitvaaldam.co.za/sitemap.xml

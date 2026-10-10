@@ -3,10 +3,17 @@ ErrorDocument 404 /404.html
 Options -Indexes
 DirectoryIndex index.html index.php
 
-# Uncomment once SSL (Let's Encrypt / AutoSSL) is active on the domain:
+# --- HTTPS + www REDIRECTS (switched OFF until SSL works) ---------------------
+# Only remove the leading "# " from the 4 lines below AFTER AutoSSL has issued a
+# certificate for BOTH visitvaaldam.co.za and www.visitvaaldam.co.za and
+# https://www.visitvaaldam.co.za/ opens without a browser warning.
+# They send http://... and the bare visitvaaldam.co.za to https://www.visitvaaldam.co.za
+# in one 301 hop. If the site breaks, put the "# " back.
 # RewriteEngine On
-# RewriteCond %{HTTPS} !=on
-# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# RewriteCond %{HTTPS} off [OR]
+# RewriteCond %{HTTP_HOST} !^www\.visitvaaldam\.co\.za$ [NC]
+# RewriteRule ^ https://www.visitvaaldam.co.za%{REQUEST_URI} [L,R=301]
+# ------------------------------------------------------------------------------
 
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html text/css application/javascript image/svg+xml application/xml text/plain
