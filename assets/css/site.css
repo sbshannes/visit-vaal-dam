@@ -34,7 +34,7 @@
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{margin:0;font-family:var(--font-body);font-size:1.0625rem;line-height:1.65;color:var(--ink);background:#fff}
 img{max-width:100%;height:auto;display:block}
-a{color:var(--teal);text-underline-offset:.15em}
+a{color:#0a5a5a;text-underline-offset:.15em}
 a:hover{color:var(--deep)}
 h1,h2,h3,h4{font-family:var(--font-head);line-height:1.2;color:var(--deep);margin:0 0 .6em}
 h1{font-size:clamp(2rem,5vw,3.4rem)}
@@ -116,7 +116,7 @@ p{margin:0 0 1em}
 .card-body p{color:var(--muted);font-size:1rem}
 .card-body .more{margin-top:auto;font-weight:700;text-decoration:none}
 .card-body .more::after{content:" \2192"}
-.tag{display:inline-block;font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--teal);margin-bottom:.35rem}
+.tag{display:inline-block;font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:#0a5a5a;margin-bottom:.35rem}
 .split{display:grid;gap:2.2rem;align-items:center;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr))}
 .split figure{margin:0}
 .rounded{border-radius:var(--radius);box-shadow:var(--shadow)}
@@ -138,7 +138,7 @@ figure figcaption{font-size:.85rem;color:var(--muted);margin-top:.5rem}
 .timeline{list-style:none;padding:0;margin:2rem 0;border-left:3px solid var(--teal)}
 .timeline li{position:relative;padding:0 0 1.4rem 1.4rem}
 .timeline li::before{content:"";position:absolute;left:-9px;top:.45rem;width:15px;height:15px;border-radius:50%;background:var(--sunset);border:3px solid #fff}
-.timeline .when{font-weight:800;color:var(--teal);display:block}
+.timeline .when{font-weight:800;color:#0a5a5a;display:block}
 .note{background:var(--teal-soft);border-radius:12px;padding:1rem 1.2rem;font-size:.97rem}
 .note strong{color:var(--deep)}
 .sources{font-size:.92rem;color:var(--muted)}
@@ -196,6 +196,7 @@ button.btn{cursor:pointer;font:inherit;font-weight:700}
 .site-footer li{margin-bottom:.45rem}
 .social-slots{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.6rem}
 .social-slot{display:inline-flex;align-items:center;gap:.4rem;padding:.45rem .8rem;border-radius:999px;border:1px dashed rgba(255,255,255,.4);font-size:.85rem;color:#cfdde3}
+.footer-bottom a{text-decoration:underline}
 .footer-bottom{border-top:1px solid rgba(255,255,255,.12);margin-top:2.5rem;padding-top:1.2rem;display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;font-size:.85rem}
 
 /* 10. Utilities & motion */
