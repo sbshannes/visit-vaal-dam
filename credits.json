@@ -1,0 +1,742 @@
+{
+ "hero": {
+  "file_base": "vaal-dam-sunset-golden-hour",
+  "alt": "Golden sunset over the open water of the Vaal Dam, seen from the air",
+  "width": 1920,
+  "height": 1080,
+  "srcset": [
+   [
+    "vaal-dam-sunset-golden-hour-480.webp",
+    480,
+    270
+   ],
+   [
+    "vaal-dam-sunset-golden-hour-800.webp",
+    800,
+    450
+   ],
+   [
+    "vaal-dam-sunset-golden-hour-1200.webp",
+    1200,
+    675
+   ],
+   [
+    "vaal-dam-sunset-golden-hour-1600.webp",
+    1600,
+    900
+   ]
+  ],
+  "fallback": "vaal-dam-sunset-golden-hour-800.jpg",
+  "title": "Vaaldam Sunset.png",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vaaldam_Sunset.png",
+  "author": "Etienne Labuschagne",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "Sunset taken at the Vaaldam, Gauteng, South-Africa from a multi rotor radio controlled model.",
+  "date": "2015-04-25",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "deneysville": {
+  "file_base": "yachts-moored-vaal-dam-deneysville",
+  "alt": "Sailing yachts moored on calm blue water at Deneysville on the Vaal Dam",
+  "width": 1920,
+  "height": 1121,
+  "srcset": [
+   [
+    "yachts-moored-vaal-dam-deneysville-480.webp",
+    480,
+    280
+   ],
+   [
+    "yachts-moored-vaal-dam-deneysville-800.webp",
+    800,
+    467
+   ],
+   [
+    "yachts-moored-vaal-dam-deneysville-1200.webp",
+    1200,
+    701
+   ],
+   [
+    "yachts-moored-vaal-dam-deneysville-1600.webp",
+    1600,
+    934
+   ]
+  ],
+  "fallback": "yachts-moored-vaal-dam-deneysville-800.jpg",
+  "title": "Vaal Dam at Deneysville.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vaal_Dam_at_Deneysville.jpg",
+  "author": "Ossewa",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "View over the Vaal Dam from Deneysville",
+  "date": "2011-12-28 17:40:44",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "wide": {
+  "file_base": "vaal-dam-wide-view-highveld-shoreline",
+  "alt": "Wide view over the Vaal Dam with a Highveld koppie reflected in still water",
+  "width": 1920,
+  "height": 702,
+  "srcset": [
+   [
+    "vaal-dam-wide-view-highveld-shoreline-480.webp",
+    480,
+    176
+   ],
+   [
+    "vaal-dam-wide-view-highveld-shoreline-800.webp",
+    800,
+    292
+   ],
+   [
+    "vaal-dam-wide-view-highveld-shoreline-1200.webp",
+    1200,
+    439
+   ],
+   [
+    "vaal-dam-wide-view-highveld-shoreline-1600.webp",
+    1600,
+    585
+   ]
+  ],
+  "fallback": "vaal-dam-wide-view-highveld-shoreline-800.jpg",
+  "title": "View over Vaal Dam.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:View_over_Vaal_Dam.jpg",
+  "author": "Ossewa",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "The Vaal Dam in South Africa, a playground for water sport enthusiasts.",
+  "date": "2012-10-05 07:31:10",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "wall": {
+  "file_base": "vaal-dam-wall-concrete-gravity-dam",
+  "alt": "The concrete wall of the Vaal Dam with water spilling through a sluice",
+  "width": 1347,
+  "height": 666,
+  "srcset": [
+   [
+    "vaal-dam-wall-concrete-gravity-dam-480.webp",
+    480,
+    237
+   ],
+   [
+    "vaal-dam-wall-concrete-gravity-dam-800.webp",
+    800,
+    396
+   ],
+   [
+    "vaal-dam-wall-concrete-gravity-dam-1200.webp",
+    1200,
+    593
+   ],
+   [
+    "vaal-dam-wall-concrete-gravity-dam-1347.webp",
+    1347,
+    666
+   ]
+  ],
+  "fallback": "vaal-dam-wall-concrete-gravity-dam-800.jpg",
+  "title": "RSA-Vaal-Dam.JPG",
+  "source_page": "https://commons.wikimedia.org/wiki/File:RSA-Vaal-Dam.JPG",
+  "author": "Genet",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "description": "Staumauer des Vaal-Dam",
+  "date": "2005-07",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "sluices": {
+  "file_base": "vaal-dam-wall-14-sluice-gates-open-2010",
+  "alt": "The Vaal Dam wall in January 2010 with 14 sluice gates open and spray rising below",
+  "width": 1920,
+  "height": 1015,
+  "srcset": [
+   [
+    "vaal-dam-wall-14-sluice-gates-open-2010-480.webp",
+    480,
+    254
+   ],
+   [
+    "vaal-dam-wall-14-sluice-gates-open-2010-800.webp",
+    800,
+    423
+   ],
+   [
+    "vaal-dam-wall-14-sluice-gates-open-2010-1200.webp",
+    1200,
+    634
+   ],
+   [
+    "vaal-dam-wall-14-sluice-gates-open-2010-1600.webp",
+    1600,
+    846
+   ]
+  ],
+  "fallback": "vaal-dam-wall-14-sluice-gates-open-2010-800.jpg",
+  "title": "View Of The Vaal Dam with 14 Sluice Gates Opened 2010.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:View_Of_The_Vaal_Dam_with_14_Sluice_Gates_Opened_2010.jpg",
+  "author": "Michael Gundelfinger",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "View Of The Vaal Dam with 14 Sluice Gates Opened 2010",
+  "date": "2017-11-16",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "full2010": {
+  "file_base": "vaal-dam-overflowing-flood-2010",
+  "alt": "Water thundering through open sluice gates as the Vaal Dam overflows in 2010",
+  "width": 1920,
+  "height": 1155,
+  "srcset": [
+   [
+    "vaal-dam-overflowing-flood-2010-480.webp",
+    480,
+    289
+   ],
+   [
+    "vaal-dam-overflowing-flood-2010-800.webp",
+    800,
+    481
+   ],
+   [
+    "vaal-dam-overflowing-flood-2010-1200.webp",
+    1200,
+    722
+   ],
+   [
+    "vaal-dam-overflowing-flood-2010-1600.webp",
+    1600,
+    962
+   ]
+  ],
+  "fallback": "vaal-dam-overflowing-flood-2010-800.jpg",
+  "title": "Vaal Dam full 2010.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vaal_Dam_full_2010.jpg",
+  "author": "Ossewa",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "The Vaal Dam overflows, some sluice gates were opened, February 2010",
+  "date": "2010-01-30 18:17:54",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "empire_vaal": {
+  "file_base": "boac-empire-flying-boat-cathay-taking-off-vaal-dam",
+  "alt": "Black-and-white photo of the BOAC Short C-class Empire flying boat Cathay taking off from the Vaal Dam during the Second World War",
+  "width": 1300,
+  "height": 879,
+  "srcset": [
+   [
+    "boac-empire-flying-boat-cathay-taking-off-vaal-dam-480.webp",
+    480,
+    325
+   ],
+   [
+    "boac-empire-flying-boat-cathay-taking-off-vaal-dam-800.webp",
+    800,
+    541
+   ],
+   [
+    "boac-empire-flying-boat-cathay-taking-off-vaal-dam-1200.webp",
+    1200,
+    811
+   ],
+   [
+    "boac-empire-flying-boat-cathay-taking-off-vaal-dam-1300.webp",
+    1300,
+    879
+   ]
+  ],
+  "fallback": "boac-empire-flying-boat-cathay-taking-off-vaal-dam-800.jpg",
+  "title": "British Overseas Airways Corporation and Qantas, 1940-1945. CH14013.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:British_Overseas_Airways_Corporation_and_Qantas,_1940-1945._CH14013.jpg",
+  "author": "Clark N S (Fg Off), Royal Air Force official photographer",
+  "licence": "Public domain",
+  "licence_url": "",
+  "description": "British Overseas Airways Corporation and Qantas, 1940-1945. Short S.30 'C' Class Empire Flying Boat, G-AFKZ \"Cathay\", of BOAC, taking off at the Vaal Dam, BOAC's South African marine terminus and staging post.",
+  "date": "between 1940 and 1945date QS:P571,+1940-",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "empire_durban": {
+  "file_base": "boac-c-class-empire-flying-boat-cleopatra-durban",
+  "alt": "Black-and-white photo of the BOAC C-class flying boat Cleopatra flying over Durban harbour in the 1940s",
+  "width": 1920,
+  "height": 1311,
+  "srcset": [
+   [
+    "boac-c-class-empire-flying-boat-cleopatra-durban-480.webp",
+    480,
+    328
+   ],
+   [
+    "boac-c-class-empire-flying-boat-cleopatra-durban-800.webp",
+    800,
+    546
+   ],
+   [
+    "boac-c-class-empire-flying-boat-cleopatra-durban-1200.webp",
+    1200,
+    819
+   ],
+   [
+    "boac-c-class-empire-flying-boat-cleopatra-durban-1600.webp",
+    1600,
+    1092
+   ]
+  ],
+  "fallback": "boac-c-class-empire-flying-boat-cleopatra-durban-800.jpg",
+  "title": "BOAC Short S.33 'C' Class Empire Flying Boat \"Cleopatra\" circles Durban.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:BOAC_Short_S.33_%27C%27_Class_Empire_Flying_Boat_%22Cleopatra%22_circles_Durban.jpg",
+  "author": "Royal Air Force official photographer",
+  "licence": "Public domain",
+  "licence_url": "",
+  "description": "British Overseas Airways Corporation and Qantas, 1940-1945. Short S.33 'C' Class Empire Flying Boat, G-AFRA \"Cleopatra\" of BOAC, circling Durban, Sout",
+  "date": "between 1940 and 1945date QS:P571,+1940-",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "solent": {
+  "file_base": "short-solent-flying-boat-ex-boac-g-aknp",
+  "alt": "The preserved Short Solent flying boat G-AKNP, once flown by BOAC, on display at a museum",
+  "width": 1920,
+  "height": 1280,
+  "srcset": [
+   [
+    "short-solent-flying-boat-ex-boac-g-aknp-480.webp",
+    480,
+    320
+   ],
+   [
+    "short-solent-flying-boat-ex-boac-g-aknp-800.webp",
+    800,
+    533
+   ],
+   [
+    "short-solent-flying-boat-ex-boac-g-aknp-1200.webp",
+    1200,
+    800
+   ],
+   [
+    "short-solent-flying-boat-ex-boac-g-aknp-1600.webp",
+    1600,
+    1067
+   ]
+  ],
+  "fallback": "short-solent-flying-boat-ex-boac-g-aknp-800.jpg",
+  "title": "Short Solent III ‘G-AKNP’ “City of Cardiff” (30471643692).jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Short_Solent_III_%E2%80%98G-AKNP%E2%80%99_%E2%80%9CCity_of_Cardiff%E2%80%9D_(30471643692).jpg",
+  "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "description": "c/n S.1295. Built 1946 for the RAF as a Seaford MkI with the serial NJ203. Converted to a Solent III in 1947 and joined BOAC as G-AKNP with the name ‘",
+  "date": "Taken on 5 March 2016, 15:41",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "angling": {
+  "file_base": "fishing-rods-shoreline-vaal-dam-deneysville",
+  "alt": "Fishing rods set up on the rocky shoreline of the Vaal Dam at Deneysville",
+  "width": 1920,
+  "height": 1227,
+  "srcset": [
+   [
+    "fishing-rods-shoreline-vaal-dam-deneysville-480.webp",
+    480,
+    307
+   ],
+   [
+    "fishing-rods-shoreline-vaal-dam-deneysville-800.webp",
+    800,
+    511
+   ],
+   [
+    "fishing-rods-shoreline-vaal-dam-deneysville-1200.webp",
+    1200,
+    767
+   ],
+   [
+    "fishing-rods-shoreline-vaal-dam-deneysville-1600.webp",
+    1600,
+    1022
+   ]
+  ],
+  "fallback": "fishing-rods-shoreline-vaal-dam-deneysville-800.jpg",
+  "title": "Angling, Vaal Dam.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Angling,_Vaal_Dam.jpg",
+  "author": "Ossewa",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "Angling at the Vaal Dam, Deneysville, South Africa",
+  "date": "2011-12-28 17:40:24",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "lowwater": {
+  "file_base": "dead-tree-vaal-dam-shoreline-low-water",
+  "alt": "A bare, dead tree standing on an exposed stretch of Vaal Dam shoreline",
+  "width": 1600,
+  "height": 1200,
+  "srcset": [
+   [
+    "dead-tree-vaal-dam-shoreline-low-water-480.webp",
+    480,
+    360
+   ],
+   [
+    "dead-tree-vaal-dam-shoreline-low-water-800.webp",
+    800,
+    600
+   ],
+   [
+    "dead-tree-vaal-dam-shoreline-low-water-1200.webp",
+    1200,
+    900
+   ],
+   [
+    "dead-tree-vaal-dam-shoreline-low-water-1600.webp",
+    1600,
+    1200
+   ]
+  ],
+  "fallback": "dead-tree-vaal-dam-shoreline-low-water-800.jpg",
+  "title": "Vaal Dam - panoramio.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vaal_Dam_-_panoramio.jpg",
+  "author": "Graham Maclachlan",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "description": "Vaal Dam",
+  "date": "Taken on 31 October 2010",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "fisheagle": {
+  "file_base": "african-fish-eagle-catching-fish",
+  "alt": "An immature African fish eagle snatching a fish from the water",
+  "width": 1920,
+  "height": 1920,
+  "srcset": [
+   [
+    "african-fish-eagle-catching-fish-480.webp",
+    480,
+    480
+   ],
+   [
+    "african-fish-eagle-catching-fish-800.webp",
+    800,
+    800
+   ],
+   [
+    "african-fish-eagle-catching-fish-1200.webp",
+    1200,
+    1200
+   ],
+   [
+    "african-fish-eagle-catching-fish-1600.webp",
+    1600,
+    1600
+   ]
+  ],
+  "fallback": "african-fish-eagle-catching-fish-800.jpg",
+  "title": "African fish eagle - immature - catches a fish (38184854171).jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:African_fish_eagle_-_immature_-_catches_a_fish_(38184854171).jpg",
+  "author": "Derek Keats from Johannesburg, South Africa",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "description": "An immature African fish eagle catches a Mozambique tilapia at Roodeplaat Nature Reserve near Pretoria, South Africa",
+  "date": "2017-11-04 15:23",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "flamingo": {
+  "file_base": "greater-flamingo-feeding-gauteng-wetland",
+  "alt": "A greater flamingo feeding in shallow water at Marievale Nature Reserve in Gauteng",
+  "width": 1920,
+  "height": 1307,
+  "srcset": [
+   [
+    "greater-flamingo-feeding-gauteng-wetland-480.webp",
+    480,
+    327
+   ],
+   [
+    "greater-flamingo-feeding-gauteng-wetland-800.webp",
+    800,
+    545
+   ],
+   [
+    "greater-flamingo-feeding-gauteng-wetland-1200.webp",
+    1200,
+    817
+   ],
+   [
+    "greater-flamingo-feeding-gauteng-wetland-1600.webp",
+    1600,
+    1089
+   ]
+  ],
+  "fallback": "greater-flamingo-feeding-gauteng-wetland-800.jpg",
+  "title": "Greater Flamingo, Phoenicopterus roseus at Marievale Nature Reserve, Gauteng, South Africa (21459951442).jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Greater_Flamingo,_Phoenicopterus_roseus_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa_(21459951442).jpg",
+  "author": "Derek Keats from Johannesburg, South Africa",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "description": "Greater Flamingo, Phoenicopterus roseus at Marievale Nature Reserve, Gauteng, South Africa",
+  "date": "2013-09-06 10:19",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "goose": {
+  "file_base": "egyptian-goose-landing-on-water",
+  "alt": "An Egyptian goose landing on water in a spray of droplets",
+  "width": 1920,
+  "height": 1164,
+  "srcset": [
+   [
+    "egyptian-goose-landing-on-water-480.webp",
+    480,
+    291
+   ],
+   [
+    "egyptian-goose-landing-on-water-800.webp",
+    800,
+    485
+   ],
+   [
+    "egyptian-goose-landing-on-water-1200.webp",
+    1200,
+    728
+   ],
+   [
+    "egyptian-goose-landing-on-water-1600.webp",
+    1600,
+    970
+   ]
+  ],
+  "fallback": "egyptian-goose-landing-on-water-800.jpg",
+  "title": "Egyptian Goose, Alopochen aegyptiacus, at Walter Sisulu National Botanical Garden, Gauteng, South Africa (35728888491).jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Egyptian_Goose,_Alopochen_aegyptiacus,_at_Walter_Sisulu_National_Botanical_Garden,_Gauteng,_South_Africa_(35728888491).jpg",
+  "author": "Derek Keats from Johannesburg, South Africa",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "description": "Egyptian Goose, Alopochen aegyptiacus, at Walter Sisulu National Botanical Garden, Gauteng, South Africa",
+  "date": "2017-05-21 15:07",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "frankfort_po": {
+  "file_base": "frankfort-free-state-historic-post-office-national-monument",
+  "alt": "The 1904 sandstone Post Office with its gabled front in Van Reenen Street, Frankfort",
+  "width": 1920,
+  "height": 1080,
+  "srcset": [
+   [
+    "frankfort-free-state-historic-post-office-national-monument-480.webp",
+    480,
+    270
+   ],
+   [
+    "frankfort-free-state-historic-post-office-national-monument-800.webp",
+    800,
+    450
+   ],
+   [
+    "frankfort-free-state-historic-post-office-national-monument-1200.webp",
+    1200,
+    675
+   ],
+   [
+    "frankfort-free-state-historic-post-office-national-monument-1600.webp",
+    1600,
+    900
+   ]
+  ],
+  "fallback": "frankfort-free-state-historic-post-office-national-monument-800.jpg",
+  "title": "Frankfort Post Office.JPG",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Frankfort_Post_Office.JPG",
+  "author": "Eugeneferreira",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "description": "Post Office, Van Reenen Street, Frankfort",
+  "date": "2014-01-02 13:24:16",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "wilge": {
+  "file_base": "wilge-river-frankfort-free-state",
+  "alt": "The Wilge River flowing past trees near Frankfort in the Free State",
+  "width": 1920,
+  "height": 1440,
+  "srcset": [
+   [
+    "wilge-river-frankfort-free-state-480.webp",
+    480,
+    360
+   ],
+   [
+    "wilge-river-frankfort-free-state-800.webp",
+    800,
+    600
+   ],
+   [
+    "wilge-river-frankfort-free-state-1200.webp",
+    1200,
+    900
+   ],
+   [
+    "wilge-river-frankfort-free-state-1600.webp",
+    1600,
+    1200
+   ]
+  ],
+  "fallback": "wilge-river-frankfort-free-state-800.jpg",
+  "title": "Free State, Frank Fort, South Africa.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Free_State,_Frank_Fort,_South_Africa.jpg",
+  "author": "Elvis Junior Matiki",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "This picture shows a river in Frank Fort, South Africa",
+  "date": "2019-01-14 17:08:32",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "parys": {
+  "file_base": "vaal-river-rapids-parys-free-state",
+  "alt": "The Vaal River running over rocks and reed islands at Parys",
+  "width": 1920,
+  "height": 1279,
+  "srcset": [
+   [
+    "vaal-river-rapids-parys-free-state-480.webp",
+    480,
+    320
+   ],
+   [
+    "vaal-river-rapids-parys-free-state-800.webp",
+    800,
+    533
+   ],
+   [
+    "vaal-river-rapids-parys-free-state-1200.webp",
+    1200,
+    799
+   ],
+   [
+    "vaal-river-rapids-parys-free-state-1600.webp",
+    1600,
+    1066
+   ]
+  ],
+  "fallback": "vaal-river-rapids-parys-free-state-800.jpg",
+  "title": "Vaal River Parys.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vaal_River_Parys.jpg",
+  "author": "Ossewa",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "View on the West End suburb of Parys, Free State, South Africa, looking downstream over the Vaal River from the R53 bridge.",
+  "date": "2008-08-03 16:46:48",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "vredefort": {
+  "file_base": "vredefort-dome-hills-venterskroon",
+  "alt": "Rolling wooded hills of the Vredefort Dome World Heritage Site near Venterskroon",
+  "width": 1920,
+  "height": 1440,
+  "srcset": [
+   [
+    "vredefort-dome-hills-venterskroon-480.webp",
+    480,
+    360
+   ],
+   [
+    "vredefort-dome-hills-venterskroon-800.webp",
+    800,
+    600
+   ],
+   [
+    "vredefort-dome-hills-venterskroon-1200.webp",
+    1200,
+    900
+   ],
+   [
+    "vredefort-dome-hills-venterskroon-1600.webp",
+    1600,
+    1200
+   ]
+  ],
+  "fallback": "vredefort-dome-hills-venterskroon-800.jpg",
+  "title": "Vredefort Dome in Venterskroon near Parys.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vredefort_Dome_in_Venterskroon_near_Parys.jpg",
+  "author": "Phillip778899",
+  "licence": "CC0",
+  "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "description": "This photo was taken close to Venterskroon in the Vredefort Dome heritage site while on a hike.",
+  "date": "2022-02-19 12:24:02",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "suikerbosrand": {
+  "file_base": "suikerbosrand-nature-reserve-grassland-valley",
+  "alt": "Grassy valley and ridges in the Suikerbosrand Nature Reserve",
+  "width": 1920,
+  "height": 1440,
+  "srcset": [
+   [
+    "suikerbosrand-nature-reserve-grassland-valley-480.webp",
+    480,
+    360
+   ],
+   [
+    "suikerbosrand-nature-reserve-grassland-valley-800.webp",
+    800,
+    600
+   ],
+   [
+    "suikerbosrand-nature-reserve-grassland-valley-1200.webp",
+    1200,
+    900
+   ],
+   [
+    "suikerbosrand-nature-reserve-grassland-valley-1600.webp",
+    1600,
+    1200
+   ]
+  ],
+  "fallback": "suikerbosrand-nature-reserve-grassland-valley-800.jpg",
+  "title": "Suikerbosrand Valley.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Suikerbosrand_Valley.jpg",
+  "author": "The original uploader was Sama at English Wikipedia.",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "description": "Suikerbosrand Nature Reserve - Valley Picture taken on 12/04/2004.",
+  "date": "13 November 2004 (original upload date)",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ },
+ "vereeniging": {
+  "file_base": "vaal-river-vereeniging-boats-riverside",
+  "alt": "Boats moored along a green riverside lawn on the Vaal River at Vereeniging",
+  "width": 1920,
+  "height": 1094,
+  "srcset": [
+   [
+    "vaal-river-vereeniging-boats-riverside-480.webp",
+    480,
+    274
+   ],
+   [
+    "vaal-river-vereeniging-boats-riverside-800.webp",
+    800,
+    456
+   ],
+   [
+    "vaal-river-vereeniging-boats-riverside-1200.webp",
+    1200,
+    684
+   ],
+   [
+    "vaal-river-vereeniging-boats-riverside-1600.webp",
+    1600,
+    912
+   ]
+  ],
+  "fallback": "vaal-river-vereeniging-boats-riverside-800.jpg",
+  "title": "Vaal River, Vereeniging.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vaal_River,_Vereeniging.jpg",
+  "author": "Ossewa",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "description": "Vaal River at Riviera on Vaal Country Club, Vereeniging, South Africa",
+  "date": "2008-09-27 16:03:43",
+  "changes": "Resized and converted to WebP/JPEG for the web"
+ }
+}
