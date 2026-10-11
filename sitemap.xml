@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- SITEMAP: URLs come from SITE_URL in build/lib.py (https://www.visitvaaldam.co.za/). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.visitvaaldam.co.za/</loc><lastmod>2026-10-10</lastmod><priority>1.0</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/history/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/flying-boats/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/uj-island-and-graves/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/things-to-do/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/towns/vaal-marina/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/towns/deneysville/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/towns/oranjeville/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/towns/frankfort/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/towns/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/plan-your-visit/</loc><lastmod>2026-10-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/contact/</loc><lastmod>2026-10-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/advertise/</loc><lastmod>2026-10-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/photo-credits/</loc><lastmod>2026-10-10</lastmod><priority>0.3</priority></url>
-  <url><loc>https://www.visitvaaldam.co.za/privacy/</loc><lastmod>2026-10-10</lastmod><priority>0.2</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/</loc><lastmod>2026-10-11</lastmod><priority>1.0</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/history/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/flying-boats/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/uj-island-and-graves/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/things-to-do/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/towns/vaal-marina/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/towns/deneysville/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/towns/oranjeville/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/towns/frankfort/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/towns/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/plan-your-visit/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/contact/</loc><lastmod>2026-10-11</lastmod><priority>0.5</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/advertise/</loc><lastmod>2026-10-11</lastmod><priority>0.5</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/photo-credits/</loc><lastmod>2026-10-11</lastmod><priority>0.3</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/privacy/</loc><lastmod>2026-10-11</lastmod><priority>0.2</priority></url>
+  <url><loc>https://www.visitvaaldam.co.za/company-details/</loc><lastmod>2026-10-11</lastmod><priority>0.2</priority></url>
 </urlset>
